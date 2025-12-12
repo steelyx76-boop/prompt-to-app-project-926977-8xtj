@@ -1,0 +1,27 @@
+/* Styles pour l'application générée - Application générée */
+/* 🆕 UNIQUE: Identifiants uniques pour différenciation */
+/* Project ID: mj346ousblt6smmt1q8 */
+/* Prompt Hash: jwopy9 */
+/* Generated: 2025-12-12T17:01:43.636Z */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(135deg, #2d62f1 0%, #764ba2 100%);
+    min-height: 100vh;
+}
+
+.app-container {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* 🆕 UNIQUE: Classe spécifique pour ce projet */
+.app-jwopy9-mj346ousblt6smmt1q8 {
+    position: relative;
+}
